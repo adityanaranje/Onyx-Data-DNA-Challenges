@@ -20,3 +20,7 @@
 
 # JUN-22 (Forbes World's Billionaires )
 ![](https://github.com/adityanaranje/Onxy-Data-DNA-Challenges/blob/main/Images/JUN22.jpg)
+
+
+# JUL-22 (Pokemon Dataset)
+![](https://github.com/adityanaranje/Onxy-Data-DNA-Challenges/blob/main/Images/JUL22.jpg)
