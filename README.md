@@ -24,3 +24,7 @@
 
 # JUL-22 (Pokemon Dataset)
 ![](https://github.com/adityanaranje/Onxy-Data-DNA-Challenges/blob/main/Images/JUL22.jpg)
+
+
+# NOV-22 (Resume Dashboard)
+![](https://github.com/adityanaranje/Onxy-Data-DNA-Challenges/blob/main/Images/nov22.jpg)
