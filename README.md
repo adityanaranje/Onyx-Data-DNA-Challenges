@@ -28,3 +28,7 @@
 
 # NOV-22 (Resume Dashboard)
 ![](https://github.com/adityanaranje/Onxy-Data-DNA-Challenges/blob/main/Images/nov22.jpg)
+
+
+# Feb-23 (BigFoot Sightings)
+![](https://github.com/adityanaranje/Onxy-Data-DNA-Challenges/blob/main/Images/Feb23.jpg)
